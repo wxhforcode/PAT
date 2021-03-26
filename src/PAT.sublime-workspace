@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"number"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"1",
+				"__1"
+			],
+			[
+				"std",
+				"stdlib.h"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"c",
+				"cin"
+			],
+			[
+				"ios",
+				"iostream"
+			],
+			[
+				"re",
+				"return\treturn expression;"
+			],
+			[
+				"lv",
+				"lvm\tint lvm(int a, int b)"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"sat",
+				"SAT\tWEEKDAY SAT"
+			],
+			[
+				"da",
+				"day\tWEEKDAY day"
+			],
+			[
+				"n",
+				"number\tint number"
+			],
+			[
+				"S",
+				"SAT\tWEEKDAY SAT"
+			],
+			[
+				"en",
+				"enum\tEnumeration"
+			],
+			[
+				"pr",
+				"printChar\tvoid printChar(int line)"
+			],
+			[
+				"s",
+				"space\tint space"
+			],
+			[
+				"l",
+				"line\tint line"
+			],
+			[
+				"print",
+				"printSpace\tvoid printSpace(int space)"
+			],
+			[
+				"i",
+				"i\tint i"
+			],
+			[
+				"p",
+				"printchar"
+			],
+			[
+				"isma",
+				"iomanip\tstandard header"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"W",
+				"weekday"
+			],
+			[
+				"w",
+				"WEEKDAY"
+			],
+			[
+				"enum",
+				"enum\tenum"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"do",
+				"double\tdouble"
+			],
+			[
+				"h",
+				"test.h\"\ttest.h\""
+			],
+			[
+				"r",
+				"return\treturn expression;"
+			],
+			[
+				"pri",
+				"printf\tint printf(const char *restrict, ...)"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"t",
+				"test"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/g++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"c_Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"c_RunInCommand"
+				],
+				[
+					"Packages/User/Python2.7.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.9.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"c++_Run"
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"c++_RunInCommend"
+				]
+			],
+			[
+				"Packages/User/g++.sublime-build",
+				"c++_RunInCommend"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"c_Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"c_RunInCommand"
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				"c_RunInCommand"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"d",
+				"Debugger: Start"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"sublimecode",
+				"Preferences: SublimeCodeIntel Key Bindings – Default"
+			],
+			[
+				"sublimeC",
+				"Preferences: SublimeCodeIntel Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pacckage",
+				"Package Control: List Packages"
+			],
+			[
+				"deb",
+				"Debugger: Install Adapters"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+			"help",
+			"touch",
+			"ls",
+			"l's"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/linkair/PAT",
+		"/Users/linkair/PAT/src"
+	],
+	"file_history":
+	[
+		"/Users/linkair/PAT/src/zyrandom.cpp",
+		"/Users/linkair/PAT/src/1001.cpp",
+		"/Users/linkair/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/linkair/PAT/1001.cpp",
+		"/Users/linkair/PAT/src/homework4.cpp",
+		"/Users/linkair/PAT/PAT.sublime-project",
+		"/Users/linkair/PAT/src/homework3.cpp",
+		"/Users/linkair/PAT/src/untitled.sublime-project",
+		"/Users/linkair/PAT/src/homework.cpp",
+		"/Users/linkair/PAT/src/homework2.cpp",
+		"/Users/linkair/Library/Application Support/Sublime Text 3/Packages/EasyClangComplete/EasyClangComplete.sublime-settings",
+		"/Users/linkair/Library/Application Support/Sublime Text 3/Packages/User/EasyClangComplete.sublime-settings",
+		"/Users/linkair/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/linkair/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 282.0
+	},
+	"output.Debugger: Console":
+	{
+		"height": 0.0
+	},
+	"output.Debugger: Protocol":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.clangautocomplete":
+	{
+		"height": 162.0
+	},
+	"output.exec":
+	{
+		"height": 295.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 162.0
+	},
+	"pinned_build_system": "Packages/User/g++.sublime-build",
+	"project": "PAT.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

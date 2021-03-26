@@ -1,0 +1,36 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "compile",
+            "command": "clang++",
+            "args": [
+                "${file}",
+                "-std=c++11",
+                "-stdlib=libc++",
+                "-o",
+                "${workspaceFolder}/bin/${fileBasenameNoExtension}.exe",
+                "--debug"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务"
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "cd ${workspaceFolder}/bin && ./${fileBasenameNoExtension}.exe",
+            "detail": "运行程序",
+            "problemMatcher": []
+        }
+    ],
+    "version": "2.0.0"
+}

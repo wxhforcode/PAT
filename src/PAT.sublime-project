@@ -1,0 +1,36 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/linkair/PAT",
+		}
+	],
+	"debugger_configurations":
+	[
+		{
+			"args":
+			[
+			],
+			"cwd": "${project_path}",
+			"name": "Launch (Compile)",
+			"program": "../bin/$file_base_name",
+			"request": "launch",
+			"sublime_build":
+			{
+				"cmd": "clang++ -std=c++11 -o ../bin/$file_base_name $file_name -g",
+				"shell": true
+			},
+			"type": "lldb"
+		},
+		{
+			"args":
+			[
+			],
+			"cwd": "${project_path}",
+			"name": "Launch",
+			"program": "../bin/$file_base_name",
+			"request": "launch",
+			"type": "lldb"
+		},
+	],
+}
