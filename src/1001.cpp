@@ -13,6 +13,7 @@ int main(int argc, char const *argv[])
 int callatz(int number){
 	if (number == 1)
 	{
-		return
+		return 0;
 	}
+	return  1;
 }
